@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/more-react/static/css/main.ef448193.css",
+    "main.js": "/more-react/static/js/main.508bc0ec.js",
+    "index.html": "/more-react/index.html",
+    "main.ef448193.css.map": "/more-react/static/css/main.ef448193.css.map",
+    "main.508bc0ec.js.map": "/more-react/static/js/main.508bc0ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef448193.css",
+    "static/js/main.508bc0ec.js"
+  ]
+}
